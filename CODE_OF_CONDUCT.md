@@ -34,7 +34,7 @@ Ce Code de Conduite s'applique à la fois dans les espaces du projet et dans les
 
 ## Application
 
-Les cas de comportement abusif, harcelant ou autrement inacceptable peuvent être signalés en contactant l'équipe du projet à l'adresse [github@pyreweb.com](mailto:github@pyreweb.com). Toutes les plaintes seront examinées et feront l'objet d'une enquête et donneront lieu à une réponse jugée nécessaire et appropriée aux circonstances. L'équipe du projet est tenue de respecter la confidentialité de la personne qui signale un incident. De plus amples détails sur les politiques d'application spécifiques peuvent être publiés séparément.
+Les cas de comportement abusif, harcelant ou autrement inacceptable peuvent être signalés en contactant l'équipe du projet à l'adresse [contact@pyreweb.com](mailto:contact@pyreweb.com). Toutes les plaintes seront examinées et feront l'objet d'une enquête et donneront lieu à une réponse jugée nécessaire et appropriée aux circonstances. L'équipe du projet est tenue de respecter la confidentialité de la personne qui signale un incident. De plus amples détails sur les politiques d'application spécifiques peuvent être publiés séparément.
 
 Les mainteneurs du projet qui ne suivent pas ou n'appliquent pas le Code de Conduite en toute bonne foi peuvent faire face à des répercussions temporaires ou permanentes, telles que déterminées par d'autres membres de la direction du projet.
 
